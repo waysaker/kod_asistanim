@@ -1,0 +1,1 @@
+Akıllı menü yapısı if-elif-else bloklarıyla eklendi ve harf duyarlılığı hatası giderildi.
